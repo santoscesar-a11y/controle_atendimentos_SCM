@@ -1,3 +1,4 @@
+# Versão 1.1 - Atualização do módulo de atendimentos
 atendimentos = []
 
 def registrar_atendimento(cliente, problema):
